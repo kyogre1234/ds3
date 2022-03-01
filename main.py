@@ -11,7 +11,7 @@ import requests
 from discord_webhook import DiscordWebhook
 
 
-cid = 929763738779803648
+cid = 914006283038904370
 TOKEN = os.getenv("TOKEN")
 
 
